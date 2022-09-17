@@ -43,7 +43,4 @@ Dataset information, Architecture description and Final revision are included.
 ### PPT File:- 
 From the beginning of the project till the end of deployment, Every steps with pictures are described.
 
-### 4. At the end visualized using Tableau:-
-https://public.tableau.com/app/profile/sanjeev.kumar7363/viz/Heart_16595509077740/Dashboard1
 
-For any advice or concern please drop me a mail at sanjeevanupam80@gmail.com
